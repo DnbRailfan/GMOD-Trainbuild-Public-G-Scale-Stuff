@@ -15,4 +15,11 @@ Future Plans:
 -More rolling stock
 -Maybe some MOW stock if I feel like doing it
 
-
+Locomotives to do:
+CN GP40-2W
+ATSF GP60M & B
+Other ATSF locos
+LMX Locos
+UP locos (DDA40X included)
+CSX locos
+Custom CSX MOW locos
