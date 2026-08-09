@@ -22,4 +22,4 @@ Other ATSF locos
 LMX Locos
 UP locos (DDA40X included)
 CSX locos
-Custom CSX MOW locos
+Custom CSX MOW locos (U23B Completed)
