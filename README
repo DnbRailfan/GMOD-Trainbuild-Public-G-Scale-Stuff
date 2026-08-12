@@ -2,6 +2,15 @@
 Hello! This is my first GitHub repository and I made it solely to have people who don't have any stuff for GMOD G-Scale to be able to have something. It will take a while, so be patient please. I often like to go between doing certain things and there's a good chance I may stop for a while. :P
 
 ---------------------------------------------------------
+How to set it up:
+1. Spawn loco(s) and seat car.
+2. Connect Pod Controller to 1st seat on the seat car.
+3. Wire Start to the seat cars key and MU Master (specifically the lead loco if using the duo) to the switch next to the key.
+4. Wire bell to the RLC cstand chip's bell output and wire the speedo to the rlc chips mph output.
+5. Wire the light at the front/back of the locomotive and connect them to their corresponding blue buttons.
+
+And that's about it if I'm not forgetting anything.
+---------------------------------------------------------
 UPDATE 1.1:
 Locomotives have been added: BNSF GP38-2; ATSF B40-8, F45 & SD40; CSX MoW U23B; CN GP40-2W; CP GP38-2 Duo.
 
